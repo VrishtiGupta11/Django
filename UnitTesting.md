@@ -1,4 +1,4 @@
-### Step 1 — Adding a Test Suite to Your Django Application
+### Step 1 — Adding a Test Suite to the Django Application
 A test suite in Django is a collection of all the test cases in all the apps in your project. To make it possible for the Django testing utility to discover the test cases you have, you write the test cases in scripts whose names begin with test. In this step, you’ll create the directory structure and files for your test suite, and create an empty test case in it.
 
 If you followed the Django Development tutorial series, you’ll have a Django app called blogsite.
